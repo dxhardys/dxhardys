@@ -9,6 +9,7 @@ I will be participating in Teratec's 2025 Hackathon focusing on optimizing Virid
 - Code Profiling 
 - Network Engineering
 - Numerical Simulations
+- CPU Benchmarking
 
 
 ### Programming languages 
