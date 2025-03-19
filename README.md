@@ -1,6 +1,6 @@
 ## Hello there 
 
-I am a master student in High Performance Computing & Simulation from [Paris-Saclay University](https://www.chps.uvsq.fr/), I also hold a MSc in networking and i am currently looking for an internship opportunity in HPC.
+I am a master student in High Performance Computing & Simulation from [Paris-Saclay University](https://www.chps.uvsq.fr/), I also hold a MSc in networking.
 I will be participating in Teratec's 2025 Hackathon focusing on optimizing Viridien's Code Serial and porting EDF's Code_Aster on a AWS Graviton4 Arm based architecture.
 I am currently an Intern at Viridien, working on benchmarking different CPU architectures.
 
